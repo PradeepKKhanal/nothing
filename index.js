@@ -8,3 +8,8 @@ function newFn(){
 }
 
 const value=nothing
+
+function newFeatureAdd(){
+    console.log('This is new feat')
+    
+}
