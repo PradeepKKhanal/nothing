@@ -17,4 +17,5 @@ function newFeatureAdd(){
 function newFeatureAddB(){
     console.log('This is new feat')
     console.log('This is a new feat B')
+    console.log('This is a new feat B edited in github page')
 }
